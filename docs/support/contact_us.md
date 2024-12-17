@@ -17,6 +17,20 @@ who are responsible for the development and maintenance of the project. The team
     </div>
   </div>
   <div class="card">
+    <img src="https://github.com/user-attachments/assets/89e221da-2e91-4813-b886-eabaf8d39845" alt="Team Member 4">
+    <div class="container">
+      <h4><b>Mohamed Kalech</b></h4>
+      <h6><b>IOS Engineer</b></h6>
+    </div>
+  </div>
+</div>
+
+## <span class="emoji"> :fontawesome-solid-hands-clapping: </span> Acknowledgements
+
+We would like to thank the rest of the mobile team at Machinestalk for their support and guidance throughout the development process.
+
+<div class="team-members">
+    <div class="card">
     <img src="https://github.com/user-attachments/assets/82ee2109-0e17-4c51-aae6-6d206d63d7f8" alt="Team Member 2">
     <div class="container">
       <h4><b>Wissal Zammouri</b></h4>
@@ -30,20 +44,6 @@ who are responsible for the development and maintenance of the project. The team
         <h6><b>Android Engineer</b></h6>
       </div>
     </div>
-</div>
-
-## <span class="emoji"> :fontawesome-solid-hands-clapping: </span> Acknowledgements
-
-We would like to thank the rest of the mobile team at Machinestalk for their support and guidance throughout the development process.
-
-<div class="team-members">
-  <div class="card">
-    <img src="https://github.com/user-attachments/assets/89e221da-2e91-4813-b886-eabaf8d39845" alt="Team Member 4">
-    <div class="container">
-      <h4><b>Mohamed Kalech</b></h4>
-      <h6><b>IOS Engineer</b></h6>
-    </div>
-  </div>
   <div class="card">
     <img src="https://github.com/user-attachments/assets/26ac7fc4-69ac-4665-b2c3-c3d3fc29b102" alt="Team Member 5">
     <div class="container">
